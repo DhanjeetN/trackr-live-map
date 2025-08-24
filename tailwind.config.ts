@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				tracking: {
+					'location-marker': 'hsl(var(--location-marker))',
+					'location-trail': 'hsl(var(--location-trail))',
+					'status-success': 'hsl(var(--status-success))',
+					'status-warning': 'hsl(var(--status-warning))',
+					'status-error': 'hsl(var(--status-error))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
